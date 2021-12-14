@@ -1,16 +1,17 @@
-### Hi there 👋
+### No Wasshoi No Life
+<br/>
+<img  height="350px" src="https://user-images.githubusercontent.com/48097323/145959841-6cfd058c-b293-477f-a6c4-0f0e4e9bc8ad.jpg">
+🎓  Univ.Tsukuba<br/>  
+🪄  UI designer<br/>    
+🎨  design & illustration <br/>
+</br>
+ナエトルとバレルスピナーといくらが好き
 
-<!--
-**KanadeNishizawa/KanadeNishizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> 
+<br/> 
+<div>
+ <img  height="230px" src="https://user-images.githubusercontent.com/48097323/145960301-c0e25e3d-041b-457a-ac22-a7650892e0be.jpg">
+ <img  height="230px" src="https://user-images.githubusercontent.com/48097323/145960183-92b4d816-a13c-4d9b-bf4a-6528bb854563.jpg">
+  <img height="232px" src="https://user-images.githubusercontent.com/48097323/145986912-3a8a7905-c585-44ce-8f63-2354fe915486.png">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
