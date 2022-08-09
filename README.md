@@ -2,8 +2,8 @@
 <br/>
 <img  height="350px" src="https://user-images.githubusercontent.com/48097323/145959841-6cfd058c-b293-477f-a6c4-0f0e4e9bc8ad.jpg">
 🎓  Univ.Tsukuba<br/>  
-🪄  UI designer<br/>    
-🎨  design & illustration <br/>
+🪄  Designer<br/>    
+🎨  UI design & CG graphics & Illustration <br/>
 </br>
 ナエトルとバレルスピナーといくらが好き
 
